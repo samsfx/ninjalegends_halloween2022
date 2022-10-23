@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://github.com/samsfx/ninjalegends_halloween2022/blob/main/picture/boss.png"></p>
 
-### 1. Click `Dropdownlist` to the right of `Boss` text
+### 1. Click `Dropdownlist` to the right of `Boss` to choose boss
 ### 2. Tick the `on` button to start 
 ### Optional : You can Tick `burn` if you wanna burn tokens
 
