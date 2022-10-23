@@ -32,3 +32,8 @@
 
 ### 1. Input any number, bot will automatically relog your Ninja Legends base on the number
 ### 2. You can choose which character you want to run
+
+# Important Note
+<p align="center"><img src="https://github.com/samsfx/ninjalegends_halloween2022/blob/main/picture/scale.png"></p>
+### 1. Your Pc Scale Must Be 100%
+
