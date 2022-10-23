@@ -35,5 +35,6 @@
 
 # Important Note
 <p align="center"><img src="https://github.com/samsfx/ninjalegends_halloween2022/blob/main/picture/scale.png"></p>
-### 1. Your Pc Scale Must Be 100%
+
+## 1. Your Pc Scale Must Be 100%
 
